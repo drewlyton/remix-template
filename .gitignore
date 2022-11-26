@@ -1,0 +1,15 @@
+node_modules
+
+/.cache
+/public/build
+/.netlify
+.env
+
+/cypress/screenshots
+/cypress/videos
+
+/prisma/data.db
+/prisma/data.db-journal
+/postgres-data
+
+.DS_Store
